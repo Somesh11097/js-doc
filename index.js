@@ -41,6 +41,47 @@ var und ;
 // Subractions
 // multiplication
 // division
-var a = 55
-var b = 67
- console.log(" Value of a + b is: ", a+b);
+// var a = 55
+// var b = 67
+//  console.log(" Value of a + b is: ", a+b);
+
+
+//Functions
+//the piece ofcode which repeats itself is called as a function
+//DRY = Do not repeat yourself
+function avg(a,b){
+    return (a+b)/2;
+}
+
+c1 = avg(4,6)
+c2 = avg(5,6);
+
+//conditionals in javascript
+
+// var age = 34
+// if (age >8){
+//     console.log("Not a kid")
+// }
+// else{
+//     console.log("Kid it is")
+// }
+
+//loops
+var arr =[1,2,3,4,5,6];
+// console.log(arr);
+// for (var i =0;i<arr.length;i++){
+//     console.log(arr[i])
+// }
+
+// arr.forEach(function(element){
+//     console.log(element);
+// })
+
+// let j =0;
+// const a1 = 0
+// a1 = a+ 1;
+// console.log(a)
+
+
+
+
