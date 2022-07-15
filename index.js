@@ -82,6 +82,45 @@ var arr =[1,2,3,4,5,6];
 // a1 = a+ 1;
 // console.log(a)
 
+ let myArr = ["Fan", "Camera", 34, null, true];
+ //array Methods
+ myArr.length;
+
+ //String methods
+ let name = "Somesh is good boy";
+//  console.log(name.length);
+
+
+ //Dates in javascript
+
+ let myDate = new Date();
+//  console.log(myDate.getMonth());
+
+
+//DOM Manipulation
+let elem = document.getElementById("click")
+// console.log(elem)
+
+let elemclass = document.getElementsByClassName("container")
+// console.log(elemclass);
+elemclass[0].style.background = "Yellow"
 
 
 
+//setTimeout and setInterval
+
+//arrow functions
+// function summ(a,b){
+//     return a+b;
+// }
+//  summ = (a,b)=>{
+//     return a+b;
+
+//  }
+logkaro = ()=>{
+    console.log("I am your log");
+
+}
+
+// setTimeout(logkaro, 3000);
+// setInterval(logkaro, 2000);
