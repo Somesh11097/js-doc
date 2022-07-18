@@ -50,6 +50,17 @@
 // }
 
 
+//program for print a table of a number
+// for(var num = 1; num<=10; num++){
+//     var tableOf = 8;
+
+//     console.log(tableOf + " * " + num + " = " + tableOf * num);
+// }
+
+//5. Functions in javascript
+// A block of code designed to perform a particular task
+// before we use a function, we need to define it.
+ 
 
 
 
