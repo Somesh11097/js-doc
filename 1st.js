@@ -62,11 +62,14 @@
 // before we use a function, we need to define it.
 //   function followed by the name of the functionName then() { //statement }
 
-function sum(){    //defining a function sum
-    var a = 10, b = 20;
-    var total =  a+b;
-    console.log(total)
-}sum();  //calling a function
+// function sum(){    //defining a function sum
+//     var a = 10, b = 20;
+//     var total =  a+b;
+//     console.log(total)
+// }sum();  //calling a function
+
+
+
 
 
 
