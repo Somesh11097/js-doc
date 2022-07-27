@@ -67,7 +67,7 @@
 //     var total =  a+b;
 //     console.log(total)
 // }sum();  //calling a function
-
+//function parameter
 
 
 
